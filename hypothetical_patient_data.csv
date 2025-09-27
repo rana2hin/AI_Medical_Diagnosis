@@ -1,0 +1,21 @@
+ID,Age,Gender,Height (cm),Weight (kg),BMI,BP,Symptoms,Medication History
+1,33,Female,161.72,68.15,26.06,133/74,"Cough, Body Aches","Decongestant, Oseltamivir"
+2,31,Male,186.86,84.46,24.19,123/84,"Fever, Cough","Antihistamine, Acetaminophen"
+3,49,Male,170.75,70.67,24.24,121/85,"Runny Nose, Sore Throat",Amoxicillin
+4,38,Male,190.22,91.22,25.21,120/76,"Sore Throat, Nausea","Cough Syrup, Oseltamivir"
+5,59,Female,178.77,86.51,27.07,131/88,Shortness of Breath,"Aspirin, Insulin, Simvastatin"
+6,38,Male,193.6,74.01,19.75,114/75,"Fever, Body Aches",Amoxicillin
+7,21,Female,175.49,91.09,29.58,121/81,Runny Nose,Decongestant
+8,73,Female,161.46,56.62,21.72,135/86,"Joint Pain, Swelling in Legs","Aspirin, Insulin"
+9,39,Female,165.9,62.77,22.81,130/76,"Headache, Diarrhea",Oseltamivir
+10,83,Male,182.82,70.4,21.06,132/78,Shortness of Breath,Warfarin
+11,39,Male,167.36,49.78,17.77,129/79,"Body Aches, Vomiting",Acetaminophen
+12,44,Female,164.81,83.14,30.61,119/85,"Fever, Nausea",Amoxicillin
+13,58,Female,176.85,80.14,25.62,119/83,"Persistent Cough, High Blood Sugar","Metformin, Amlodipine"
+14,36,Female,167.11,72.08,25.81,132/73,"Fatigue, Nausea",Acetaminophen
+15,54,Female,162.92,83.44,31.44,129/87,"Shortness of Breath, Persistent Cough","Amlodipine, Furosemide"
+16,45,Female,150.35,58.29,25.79,129/86,"Diarrhea, Sore Throat",None
+17,48,Male,170.93,57.06,19.53,135/78,"Persistent Cough, Shortness of Breath, High Blood Sugar",Metformin
+18,38,Male,167.52,56.53,20.14,117/79,Diarrhea,Cough Syrup
+19,85,Female,159.02,49.72,19.66,128/89,Headache,None
+20,63,Female,160.96,59.28,22.88,137/79,"Blurred Vision, Dizziness","Furosemide, Lisinopril"
