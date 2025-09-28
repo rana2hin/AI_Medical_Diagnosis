@@ -81,7 +81,8 @@ For security reasons, the application reads the API key from an environment vari
 -   **On macOS/Linux:**
     ```bash
     export GOOGLE_API_KEY='YOUR_API_KEY'
-    ```-   **On Windows (Command Prompt):**
+    ```
+-   **On Windows (Command Prompt):**
     ```bash
     set GOOGLE_API_KEY='YOUR_API_KEY'
     ```
@@ -104,7 +105,8 @@ The CSV should have the following columns:
 Once the setup is complete, run the following command in your terminal from the project's root directory:
 
 ```bash
-shiny run --reload app.py```
+shiny run --reload app.py
+```
 
 -   `shiny run`: Executes the Shiny application.
 -   `app.py`: The name of the main Python script.
